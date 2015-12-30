@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="decode_emmc_protocal">
+</Property><Property Name="Solution File" Value="E:\work\SillconGO\VC\decode\decode_emmc_protocal\decode_emmc_protocal.sln">
+</Property><Property Name="User Options File" Value="E:\work\SillconGO\VC\decode\decode_emmc_protocal\decode_emmc_protocal.suo">
+</Property><Property Name="Date" Value="2015年12月28日">
+</Property><Property Name="Time" Value="9:11">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="decode_emmc_protocal.sln" Description="File successfully backed up as E:\work\SillconGO\VC\decode\decode_emmc_protocal\decode_emmc_protocal.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="decode_emmc_protocal.suo" Description="File successfully backed up as E:\work\SillconGO\VC\decode\decode_emmc_protocal\decode_emmc_protocal.suo.old">
+</Event><Event ErrorLevel="0" Project="decode_emmc_protocal" Source="decode_emmc_protocal\decode_emmc_protocal.vcproj" Description="Converting project file 'E:\work\SillconGO\VC\decode\decode_emmc_protocal\decode_emmc_protocal\decode_emmc_protocal.vcproj'.">
+</Event><Event ErrorLevel="1" Project="decode_emmc_protocal" Source="decode_emmc_protocal\decode_emmc_protocal.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="1" Project="decode_emmc_protocal" Source="decode_emmc_protocal\decode_emmc_protocal.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="decode_emmc_protocal" Source="decode_emmc_protocal\decode_emmc_protocal.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="decode_emmc_protocal" Source="decode_emmc_protocal\decode_emmc_protocal.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="decode_emmc_protocal" Source="decode_emmc_protocal\decode_emmc_protocal.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="decode_emmc_protocal" Source="decode_emmc_protocal\decode_emmc_protocal.vcproj" Description="Done converting to new project file 'E:\work\SillconGO\VC\decode\decode_emmc_protocal\decode_emmc_protocal\decode_emmc_protocal.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="decode_emmc_protocal" Source="decode_emmc_protocal\decode_emmc_protocal.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="decode_emmc_protocal.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="decode_emmc_protocal.sln" Description="Converted">
+</Event></UpgradeLog>
